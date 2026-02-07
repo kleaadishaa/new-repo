@@ -5,7 +5,7 @@ It allows users to manage tasks across multiple sections: Today, Important, Work
 
 ---
 
--> Features
+# Features
 
 1) Today
 - Add tasks that need to be completed today.
@@ -28,7 +28,7 @@ It allows users to manage tasks across multiple sections: Today, Important, Work
 - Mark items as completed or delete them.
 - Persist in localStorage.
 
- 5)Create a List
+5) Create a List
 - Create custom lists and add tasks to them.
 - Edit list titles and manage tasks.
 - Tasks persist in localStorage.
